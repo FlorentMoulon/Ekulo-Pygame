@@ -32,7 +32,7 @@ cd ekulo
 
 #### Installez les dépendances:
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Structure du Projet
